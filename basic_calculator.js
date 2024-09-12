@@ -40,3 +40,10 @@ calculate(1,'t','divide');
 calculate(1,'','divid');
 calculate(4, 'add')
 calculate(10, 0, 'divide')
+
+
+//CE64-E271
+//https://github.com/Triplebond1/node/commit/b81f0aaa0ca7d8b65f75958748952e43bd59a04d
+
+//2
+//https://github.com/Triplebond1/node/commit/7f834b7f00ab4bf60bccb580315bdaa39635b0b2
